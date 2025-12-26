@@ -5,7 +5,7 @@ The project  and the AI Concept
 Our project is developing an artificial intelligence system based on a prototype inspired by ChatGPT and voice assistants such as Alice. 
 
 The core idea of this project is to create a conversational AI that can maintain dialogue, understand context, and become more intelligent over time. 
-
+vyjhbknm;l,;
   
 
 One of the most relevant large language models related to this concept is Falcon 180B, one of the most powerful language models available today. 
