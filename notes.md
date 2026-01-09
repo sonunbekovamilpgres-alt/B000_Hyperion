@@ -827,3 +827,48 @@ Falcon 180B — это большая языковая модель, содер�
   
 
 Основан на прототипе ChatGPT и Алисы, объединяя текст, голос и доступ к информации. 
+
+ Simple Self-Learning AI – Step by Step Plan
+
+ Goal
+
+Create a simple AI that can learn step by step.
+First task: learn how to add numbers.
+
+
+ Step-by-Step Plan
+
+1. Choose a programming language: **Python**
+2. Install Python on the computer
+3. Create a new project
+4. Define a simple task (addition of numbers)
+5. Create rules (correct answer / wrong answer)
+6. Give numbers to the AI (input)
+7. Let the AI give an answer (output)
+8. Compare the AI answer with the correct answer
+9. Give a reward for a correct answer
+10. Give a penalty for a wrong answer
+11. Repeat this process many times
+12. Save results after each training step
+13. Train again using saved data
+14. Check if the AI makes fewer mistakes
+15. If results are better, increase difficulty
+16. Train again
+17. Save again
+18. Add simple memory
+19. Add a clear goal for the AI
+20. Let the AI continue learning
+
+
+Key Idea
+
+ The AI starts with no knowledge
+ The AI makes mistakes
+ The AI learns from mistakes
+   The AI improves over time
+
+
+ Notes
+ This is not a free or conscious AI
+The AI learns only inside given rules
+This project focuses on learning logic, not intelligence simulation
